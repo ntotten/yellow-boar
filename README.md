@@ -1,14 +1,4 @@
 # yellow-boar
 Zuplo API Gateway
 
-zpka_7280f1b8751f4f2a86c4ad25844edd0a_52a1a1da
-
-
-zpka_7280f1b8751f4f2a86c4ad25844edd0a_52a1a1da
-
-
-zpka_b93969647b734167a87c9d1e30d953da_0537e219
-
-
-
 zpka_b93969647b734167a87c9d1e30d953da_0537e219
